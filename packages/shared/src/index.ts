@@ -1,1 +1,1 @@
-export class Test {}
+export * from './types';
